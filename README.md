@@ -7,5 +7,5 @@ I used [macroquad](https://crates.io/crates/macroquad) as it's cross-platform an
 
 ## Demo
 
-- [Web demo](https://battesonb.github.io/tetris-rs)
+- [Web demo](https://battesonb.github.io/tetris-rs/)
 - Native demo -- pull down the source and do a `cargo run`
