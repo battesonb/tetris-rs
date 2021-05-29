@@ -1,0 +1,1 @@
+C:\Users\Byron\Desktop\tetris-rs\target\wasm32-unknown-unknown\debug\tetris-rs.wasm: C:\Users\Byron\Desktop\tetris-rs\src\board.rs C:\Users\Byron\Desktop\tetris-rs\src\color.rs C:\Users\Byron\Desktop\tetris-rs\src\main.rs C:\Users\Byron\Desktop\tetris-rs\src\renderer.rs C:\Users\Byron\Desktop\tetris-rs\src\tetromino.rs
